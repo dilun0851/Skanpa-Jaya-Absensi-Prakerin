@@ -13,8 +13,8 @@ Skanpa Jaya (Guru) Skanpa jaya (guru) untuk melihat jurnal siswa, absensi siswa,
 
 # Akses tools developer: https://home.s.id/l/28gv9
 
-Tools developer:
-⚙️ Sketchware Pro.apk (Crack)
-⚙️ Mentahan SWB Skanpa Jaya 2024
-⚙️ Sketchware Pro.apk khusus Import & Ekport (Crack)
-⚙️ APK Editor Pro.apk (Crack)
+# Tools developer:
+# ⚙️ Sketchware Pro.apk (Crack)
+# ⚙️ Mentahan SWB Skanpa Jaya 2024
+# ⚙️ Sketchware Pro.apk khusus Import & Ekport (Crack)
+# ⚙️ APK Editor Pro.apk (Crack)
