@@ -5,10 +5,10 @@ Skanpa Jaya (Guru) Skanpa jaya (guru) untuk melihat jurnal siswa, absensi siswa,
 # Download skanpa jaya siswa.apk: https://skanpajaya.kesug.com/download_skanpa_jaya.html
 
 
-# Tutorial cara download Skanpa Jaya (Guru) v1.1 Rilis by Code F/AIKK Official:
+# Tutorial cara download Skanpa Jaya (Guru) v1.1 rilis by Code F/AIKK Official:
 [![Skanpa-Jaya-Absensi-Prakerin](https://img.youtube.com/vi/kAvVL3Jd8Yo/0.jpg)](https://www.youtube.com/watch?v=kAvVL3Jd8Yo)
 
-# Tutorial cara menggunakan aplikasi Skanpa Jaya Guru v1.1 rilis:
+# Tutorial cara menggunakan aplikasi Skanpa Jaya Guru v1.1 rilis by Code F/AIKK Official:
 [![Skanpa-Jaya-Absensi-Prakerin](https://img.youtube.com/vi/cdznolg4HGM/0.jpg)](https://www.youtube.com/watch?v=cdznolg4HGM)
 
 # Akses tools developer: https://home.s.id/l/28gv9
