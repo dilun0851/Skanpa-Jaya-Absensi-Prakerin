@@ -1,8 +1,8 @@
 # Skanpa-Jaya-Absensi-Prakerin
 Skanpa Jaya (Guru) Skanpa jaya (guru) untuk melihat jurnal siswa, absensi siswa, struktur organisasi prakerin, jadwal prakerin, history prakerin, history struktur prakerin, dan dokumentasi monitoring. &amp; Skanpa Jaya (Siswa) Skanpa Jaya (Siswa) untuk Absensi siswa, dokumentasi prakerin, jurnal siswa.
 
-Link website skanpa jaya: https://skanpajaya.kesug.com
-Link website skanpa jaya cadangan: https://skanpajaya.wordpress.com
+# Link website skanpa jaya: https://skanpajaya.kesug.com
+# Link website skanpa jaya cadangan: https://skanpajaya.wordpress.com
 # =============================================
 # Download skanpa jaya guru.apk: https://home.s.id/l/28k5t
 # Download skanpa jaya siswa.apk: https://skanpajaya.kesug.com/download_skanpa_jaya.html
